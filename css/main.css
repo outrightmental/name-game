@@ -5,9 +5,55 @@
    ========================================================================== */
 
 
+body {
+	font-family: 'Merriweather', serif;
+}
+
+.btn {
+	cursor: pointer;
+}
+
+
+/*
+Splash
+*/
+
+.splash {
+	background: #303030;
+	color: #e0e0e0;
+	margin: 100px 0 100px 0;
+	padding: 60px 0 60px 0;
+}
+
+.splash h1 {
+	font-size: 4em;
+	font-weight: 700;
+}
+
+.splash p {
+	font-size: 1.5em;
+	font-weight: 400;
+}
 
 
 
+
+
+
+/*
+Scene
+*/
+
+.scene {
+	color: #303030;
+	margin: 100px 0 100px 0;
+	padding: 60px 0 60px 0;
+}
+
+.scene p {
+	font-size: 1.5em;
+	font-weight: 400;
+}
 
 
 
